@@ -1,0 +1,6 @@
+framework module Pods_CalendarPersonal {
+  umbrella header "Pods-CalendarPersonal-umbrella.h"
+
+  export *
+  module * { export * }
+}
